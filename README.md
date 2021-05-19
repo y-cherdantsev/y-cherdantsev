@@ -31,7 +31,7 @@
 <img alt="Epic Games - y.cherdantsev" title="Epic Games - y.cherdantsev" height="32" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/epicgames.svg">
 <img alt="Nintendo Switch" title="Nintendo Switch" height="32" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/switch.svg">
 <img alt="Uplay - ZhekaCher" title="Uplay - ZhekaCher" height="32" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/uplay.svg">
-<a href="#"><img alt="Origin - y_cherdantsev" title="Origin - y_cherdantsev" height="32" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/origin.svg"></a>
+<img alt="Origin - y_cherdantsev" title="Origin - y_cherdantsev" height="32" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/origin.svg">
 </p>
 
 ### Skills
