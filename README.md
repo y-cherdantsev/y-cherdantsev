@@ -19,7 +19,8 @@
 <p align="left">
 <a href="https://discordapp.com/users/795177236369244161"><img align="left" alt="Discord" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/discord.svg" /></a>
 <a href="https://www.linkedin.com/in/yevgeniy-cherdantsev-74b69517a/"><img align="left" alt="LinkedIN" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/linkedin.svg" /></a>
-<a href="https://t.me/ycherdantsev"><img align="left" alt="Telegram" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/telegram.svg" /></a>
+<a href="https://t.me/ycherdantsev"><img align="left" alt="Telegram" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/telegram.svg" /><a href="https://www.reddit.com/user/Illustrious-Double-9"><img align="left" alt="Reddit" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/reddit.svg" />
+<a href="https://www.pinterest.ca/yevgeniycherdantsev"><img align="left" alt="Pinterest" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/pinterest.svg" /></a>
 </p>
 
 <br>
