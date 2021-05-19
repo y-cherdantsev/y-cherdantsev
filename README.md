@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/coding-freak.gif" width="494" height="380" />
 
 - ⏳ 21 y.o.
-- 🗺️ Kazakhstan
+- 🗺️ Kazakhstan, Almaty
 - 📧 [yevgeniy.cherdantsev@gmail.com](mailto:yevgeniy.cherdantsev@gmail.com)
 
 
