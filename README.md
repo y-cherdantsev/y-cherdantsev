@@ -25,9 +25,13 @@
 
 #### Entartaining
 <p align="left">
+<a href="https://www.gog.com/u/y_cherdantsev"><img alt="GOG - y_cherdantsev" title="GOG - y_cherdantsev" height="32" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/gog.svg"></a>
 <a href="https://steamcommunity.com/id/y_cherdantsev"><img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/steam.svg"></a>  
 <a href="#"><img alt="PlayStation - drumnkiller" title="PlayStation - drumnkiller" height="32" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/playstation.svg"></a>
 <a href="#"><img alt="Epic Games - y.cherdantsev" title="Epic Games - y.cherdantsev" height="32" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/epicgames.svg"></a>
+<a href="#"><img alt="Nintendo Switch" title="Nintendo Switch" height="32" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/switch.svg"></a>
+<a href="#"><img alt="Uplay - ZhekaCher" title="Uplay - ZhekaCher" height="32" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/uplay.svg"></a>
+<a href="#"><img alt="Origin - y_cherdantsev" title="Origin - y_cherdantsev" height="32" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/origin.svg"></a>
 </p>
 
 ### Skills
