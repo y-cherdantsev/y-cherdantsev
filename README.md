@@ -4,7 +4,7 @@
 
 <a href="https://github.com/y-cherdantsev"><img alt="follow" src="https://img.shields.io/github/followers/y-cherdantsev?label=Follow&color=fedcba" /></a>
 <img alt="clean code" src="https://img.shields.io/badge/Clean%20Code-Guru-_.svg?style=flat" />
-<img alt="status 100" src="https://img.shields.io/badge/100-Continue-_.svg?style=flat" />
+<img alt="Status 102" src="https://img.shields.io/badge/102-Processing-_.svg?style=flat" />
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/coding-freak.gif" width="494" height="380" />
 
@@ -36,7 +36,7 @@
 
 ### Skills
 <p>
-  <img alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white" />
@@ -49,5 +49,5 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=graphql&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=graphql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=graphql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/GitLabCI-%23181717.svg?&style=flat&logo=gitlab&logoColor=white" />
+  <img alt="GitLabCI" src="https://img.shields.io/badge/GitLabCI-%23181717.svg?&style=flat&logo=gitlab&logoColor=white" />
 </p>
