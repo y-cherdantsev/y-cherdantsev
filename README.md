@@ -1,5 +1,5 @@
 # ✌️ Hi, my name is Yevgeniy  
-## 💻 _Software Engeneer_
+## 💻 _Software Engineer_
 
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/banner.gif" />
 
