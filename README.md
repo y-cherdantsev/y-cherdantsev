@@ -16,9 +16,9 @@
 
 #### Social
 <p align="left">
-<a href="https://discordapp.com/users/795177236369244161"><img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/discord.svg" /></a>
-<a href="https://www.linkedin.com/in/yevgeniy-cherdantsev-74b69517a/"><img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/linkedin.svg" /></a>
-<a href="https://t.me/ycherdantsev"><img align="left" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/telegram.svg" /></a>
+<a href="https://discordapp.com/users/795177236369244161"><img align="left" alt="Discord" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/discord.svg" /></a>
+<a href="https://www.linkedin.com/in/yevgeniy-cherdantsev-74b69517a/"><img align="left" alt="LinkedIN" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/linkedin.svg" /></a>
+<a href="https://t.me/ycherdantsev"><img align="left" alt="Telegram" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/telegram.svg" /></a>
 </p>
 
 <br>
@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://steamcommunity.com/id/y_cherdantsev"><img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/steam.svg"></a>  
 <a href="#"><img alt="PlayStation - drumnkiller" title="PlayStation - drumnkiller" height="32" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/playstation.svg"></a>
-<a href="#"><img alt="Epic Games - y.cherdantsev" title="Epic Games - PeterTheHan" height="32" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/epicgames.svg"></a>
+<a href="#"><img alt="Epic Games - y.cherdantsev" title="Epic Games - y.cherdantsev" height="32" width="32" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/epicgames.svg"></a>
 </p>
 
 ### Skills
