@@ -4,7 +4,7 @@
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/banner.gif" />
 
 <a href="https://github.com/y-cherdantsev"><img alt="follow" src="https://img.shields.io/github/followers/y-cherdantsev?label=Follow&color=fedcba" /></a>
-<img alt="clean code" src="https://img.shields.io/badge/Clean%20Code-Guru-_.svg?style=flat" />
+<img alt="clean code" src="https://img.shields.io/badge/Clean%20Code-In stock-_.svg?style=flat" />
 <img alt="Status 102" src="https://img.shields.io/badge/102-Processing-_.svg?style=flat" />
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/y-cherdantsev/y-cherdantsev/main/assets/coding-freak.gif" width="494" height="380" />
